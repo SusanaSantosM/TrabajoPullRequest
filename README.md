@@ -24,4 +24,4 @@ Este ```pull request``` lo vamos hacer como petición seleccionando desde mi rep
 > [!Note]
 > La persona a la que hicimos el fork tiene la posibilidad de aceptar el ```merge``` y combinar los trabajos o solo cerrar el ```pull request```.
 
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/SusanaSantosM/Pull_request/blob/main/src/pullRequest.jpeg)
